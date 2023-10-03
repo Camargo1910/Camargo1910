@@ -6,7 +6,7 @@ Sou Marcelo Camargo, quero ser engenheiro de software 👨‍💻.
 
 🌱 Atualmente estou aprendendo automação de testes com Selenium e Java
 
-💬 Pergunte-me sobre: ​​tecnologia, Futebol e Games
+💬 Pergunte-me sobre: ​​Tecnologia, Futebol e Games
 
 😄 Pronomes: ele/ele
 
