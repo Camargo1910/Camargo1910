@@ -1,6 +1,3 @@
-
-
-
 ###Olá 👋,
 
 Sou Marcelo Camargo, quero ser engenheiro de software 👨‍💻.
