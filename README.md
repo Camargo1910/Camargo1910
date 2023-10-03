@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Camargo1910/Camargo1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Olá 👋,
+
+Sou Marcelo Camargo, quero ser engenheiro de software 👨‍💻.
+
+🔭 Tenho conhecimento em BDD, Postman, Planejamento e execução de testes manuais
+
+🌱 Atualmente estou aprendendo automação de testes com Selenium e Java
+
+💬 Pergunte-me sobre: ​​tecnologia, Futebol e Games
+
+😄 Pronomes: ele/ele
+
