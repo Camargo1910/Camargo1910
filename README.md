@@ -8,5 +8,5 @@ Sou Marcelo Camargo, quero ser engenheiro de software 👨‍💻.
 
 💬 Pergunte-me sobre: ​​Tecnologia, Futebol e Games
 
-😄 Pronomes: ele/ele
+😄 Pronomes: Ele/Dele
 
