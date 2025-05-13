@@ -1,7 +1,7 @@
 
 # Oi, eu sou o Goku....pera, não, sou o Marcelo mesmo.
 
-Quero ser desenvolvedor Frontend. Estou estudando HTML, CSS e JavaScript.
+Quero ser desenvolvedor Frontend, estou estudando HTML, CSS e JavaScript.
 
 Aqui vão dois links de projetos meus. Espero que gostem! Podem dar dicas — eu vou adorar. 😊
 
