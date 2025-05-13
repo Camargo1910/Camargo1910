@@ -1,12 +1,17 @@
-Olá 👋,
 
-Sou Marcelo Camargo, quero ser engenheiro de software 👨‍💻.
+# Oi, eu sou o Goku....pera, não, sou o Marcelo mesmo.
 
-🔭 Tenho conhecimento em BDD, Postman, Planejamento e execução de testes manuais
+Quero ser desenvolvedor Frontend. Estou estudando HTML, CSS e JavaScript.
 
-🌱 Atualmente estou aprendendo automação de testes com Selenium e Java
+Aqui vão dois links de projetos meus. Espero que gostem! Podem dar dicas — eu vou adorar. 😊
 
-💬 Pergunte-me sobre: ​​Tecnologia, Futebol e Games
+[Site Impacta](https://camargo1910.github.io/primeiro_projeto_HTML/)
 
-😄 Pronomes: Ele/Dele
+[Página de namoro](https://camargo1910.github.io/ProjetoDev/)
 
+Se quiser me conhecer um pouco mais, pode me chamar nas redes sociais:
+
+💻 [Linkedin](https://www.linkedin.com/in/marcelohncamargo/)
+💻 [Instagram](https://www.instagram.com/_celo1910?igsh=aWEyZ244d2N4bW9v)
+
+💬 Pergunte-me sobre: Tecnologia, futebol e games.
